@@ -1,0 +1,25 @@
+
+  /*input*/
+  .ex{
+  width: 30%;
+  padding: 3px;
+  margin-left: 500px ;
+  margin-top: 150px;
+  display: inline-block;
+  border:rgb(17, 16, 16);
+  height:2cm;
+ 
+ 
+ /*body bg*/
+}
+body{
+  background-image:url("bgg.jpg");
+}
+ /*button*/
+.ex1{
+  margin-left: 1px;
+  background-image:url("bgg,jpg");
+  width: 5cm;
+  height: 1cm;
+  background-color: rgb(94, 172, 152);
+}
